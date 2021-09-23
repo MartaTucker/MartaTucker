@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartaTucker
-- 👀 I’m interested in retirement!
+- 👀 I’m interested in traching
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Marta@monmouthcollege.edu
